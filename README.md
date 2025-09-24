@@ -29,7 +29,7 @@ Defini usuário administrador e senha.
 
 Ajustei as regras de firewall para permitir conexão a partir do meu IP.
 
-Testei a conexão via Azure Data Studio / SQL Server Management Studio (SSMS).
+Testei a conexão via Visual Studio 2022.
 
 Criei tabelas de exemplo e realizei consultas para validar a instância.
 
@@ -39,6 +39,7 @@ dio-desafio-db
  ┣ images
  ┃ ┣ db-portal.png
  ┃ ┣ db-config.png
+ ┃ ┣ db-connection.png
  ┃ ┗ db-query.png
  ┣ README.md
  ┣ queries.sql
